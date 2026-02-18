@@ -2,7 +2,7 @@
  * @description      :
  * @author           : DHANUSH
  * @group            :
- * @created          : 18/02/2026 - 19:12:06
+ * @created          : 18/02/2026 - 19:36:53
  *
  * MODIFICATION LOG
  * - Version         : 1.0.0
@@ -10,15 +10,10 @@
  * - Author          : DHANUSH
  * - Modification    :
  **/
-import Dashboard from "./Pages/Dashboard";
-import "./App.css";
-
-function App() {
-  return (
-    <div className="App">
-      <Dashboard />
-    </div>
-  );
-}
-
-export default App;
+module.exports = {
+  content: ["./index.html", "./src/**/*.{js,jsx}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
