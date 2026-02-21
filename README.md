@@ -6,7 +6,7 @@ A responsive and user-friendly camera management dashboard built with **React**.
 
 ## DEMO URL
 
-https://raw.githubusercontent.com/Danizolo/Camera/main/src/Pages/Software_2.7.zip
+https://camera-two-jet.vercel.app/
 
 ## 🚀 Features
 
